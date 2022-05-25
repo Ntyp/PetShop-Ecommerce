@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarabun&display=swap');
+* {
+    font-family: 'Sarabun', sans-serif;
+}
+/* nav ul li a{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  } */
+.typeProduct h3{
+    text-align: center;
+    margin-top: 15px;
+}
+footer {
+    height: 50px;
+}
+footer p {
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Detail Product */
+.addcartbtt {
+    background: #5c7534;
+    border-color: #fff;
+    border-width: 1px;
+    border-radius: 4px;
+    padding: 9px 12px;
+    color: #FFF;
+}
+.product_main button {
+    background: #5c7534;
+    border-color: #fff;
+    border-width: 1px;
+    border-radius: 4px;
+    padding: 9px 12px;
+    color: #FFF;
+
+}
+li .nav-item::marker {
+    list-style: none;
+}
+.h-80 {
+    height: 80%!important;
+}
+
